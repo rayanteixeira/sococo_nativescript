@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rayan\Documents\WebProjects\ProjetoNativeScript\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Rayan\Documents\WebProjects\ProjetoNativeScript\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-ui-25.3.1_2cfe1b5fdec6b7ad2df690780cc6cf779b59852c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rayan\Documents\WebProjects\ProjetoNativeScript\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
+        <dex dex="C:\Users\Rayan\Documents\WebProjects\ProjetoNativeScript\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-widgets-release_f395949a8aa909611c109ec3c777cf529fcf728b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rayan\Documents\WebProjects\ProjetoNativeScript\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Rayan\Documents\WebProjects\ProjetoNativeScript\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-media-compat-25.3.1_8edb6664c0fe267d615c931b158b99ef629be08b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rayan\Documents\WebProjects\ProjetoNativeScript\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Rayan\Documents\WebProjects\ProjetoNativeScript\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-fragment-25.3.1_618075b8adb981b9775914ab23e31ca078b14f74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rayan\Documents\WebProjects\ProjetoNativeScript\platforms\android\build\intermediates\exploded-aar\nativescript-optimized\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="C:\Users\Rayan\Documents\WebProjects\ProjetoNativeScript\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-nativescript-optimized_34ebade0a62f0cd768f9c9a58121e8429e003ae9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rayan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Rayan\Documents\WebProjects\ProjetoNativeScript\platforms\android\build\intermediates\pre-dexed\F0\debug\support-annotations-25.3.1_26345e3fd3d56b9366e0445387e4e7d8285e0011.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rayan\Documents\WebProjects\ProjetoNativeScript\platforms\android\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Rayan\Documents\WebProjects\ProjetoNativeScript\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-design-25.3.1_6007f8da32932f81f4fc8430192a470d7456d409.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rayan\Documents\WebProjects\ProjetoNativeScript\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Rayan\Documents\WebProjects\ProjetoNativeScript\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-transition-25.3.1_7ec559965a82414f087804678629dd971032e2fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rayan\Documents\WebProjects\ProjetoNativeScript\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Rayan\Documents\WebProjects\ProjetoNativeScript\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-vector-drawable-25.3.1_791f8ba834dda04c75830895e660b0d94e77dc61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rayan\Documents\WebProjects\ProjetoNativeScript\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Rayan\Documents\WebProjects\ProjetoNativeScript\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-animated-vector-drawable-25.3.1_6df20b222193d57840e85f6a0d0c2b807a7238ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rayan\Documents\WebProjects\ProjetoNativeScript\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Rayan\Documents\WebProjects\ProjetoNativeScript\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-recyclerview-v7-25.3.1_ec08f93dd0c94ea8950f5f2dadad1acfa0fdb213.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rayan\Documents\WebProjects\ProjetoNativeScript\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Rayan\Documents\WebProjects\ProjetoNativeScript\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-appcompat-v7-25.3.1_ee18106cb85583c6702d4e403f03c9df1545ee82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rayan\Documents\WebProjects\ProjetoNativeScript\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Rayan\Documents\WebProjects\ProjetoNativeScript\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-compat-25.3.1_94d9b3fea87a06698a2fa20ef8d80f7103343cfe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rayan\Documents\WebProjects\ProjetoNativeScript\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Rayan\Documents\WebProjects\ProjetoNativeScript\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-v4-25.3.1_5ecf0ad11aa821b0ded781b9ef23e7df32994405.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rayan\Documents\WebProjects\ProjetoNativeScript\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Rayan\Documents\WebProjects\ProjetoNativeScript\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-utils-25.3.1_0ccdbac26a74536b152c7f783c8a9231c3e61061.jar" />
+    </item>
+
+</items>
